@@ -5,7 +5,7 @@ zapoznanie sie z gitem.
 
 ##Wymaganie
 
-Nie ma zadnych
+NODE.js
 ## Licencja
 
 MIT
