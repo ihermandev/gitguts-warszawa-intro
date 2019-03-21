@@ -8,7 +8,7 @@ zapoznanie sie z gitem.
 Nie ma zadnych
 ## Licencja
 
-MIT
+Apache Commons 2
 
 ##Autor
 
