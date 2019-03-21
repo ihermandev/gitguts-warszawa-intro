@@ -9,3 +9,7 @@ Nie ma zadnych
 ## Licencja
 
 MIT
+
+##Autor
+
+infoShare Academy
