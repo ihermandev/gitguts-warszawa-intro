@@ -8,7 +8,8 @@ zapoznanie sie z gitem.
 NODE.js
 ## Licencja
 
-MIT 2
+CC
+
 
 ##Autor
 
