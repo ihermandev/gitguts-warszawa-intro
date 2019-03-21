@@ -8,7 +8,7 @@ zapoznanie sie z gitem.
 NODE.js
 ## Licencja
 
-Apache Commons 2
+Apache Commons 2 to licecnja fajna.
 
 ##Autor
 
