@@ -14,3 +14,7 @@ CC
 ##Autor
 
 Ten projekt jest tworzony przeze mnie
+
+## Koniec
+
+To juz ostatnie zadanie
