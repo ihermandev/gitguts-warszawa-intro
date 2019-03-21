@@ -6,3 +6,6 @@ zapoznanie sie z gitem.
 ##Wymaganie
 
 Nie ma zadnych
+## Licencja
+
+MIT
